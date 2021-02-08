@@ -4,7 +4,7 @@
 **To be able to use this program:**
 
 1. Unzip this .zip file into a directory of your choosing
-2. Open MTG Arena, locate the deck you want to analyze, export it to your clipboard, and paste the text into a text document (.txt). Name the document whatever you'd like.
+2. Open MTG Arena, locate the deck you want to analyze, export it to your clipboard, and paste the text into a text document (.txt). Name the document whatever you'd like. This document must be in the same directory as MTG_App.exe.
 3. Open this program; see below section on how to open.
 4. Type "help" when the program is open for more information about possible commands.
 5. Message jude about any bugs or wanted features
